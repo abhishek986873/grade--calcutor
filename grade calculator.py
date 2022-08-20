@@ -19,10 +19,3 @@ if (m_total>=60 and m_total<=69):
     print("• YOU GOT 'C' GRADE ")
 if (m_total>=50 and m_total<=59):
     print("• YOU GOT 'D' GRADE ")
-
-
-
-        
-
-
-
