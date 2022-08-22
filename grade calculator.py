@@ -18,5 +18,7 @@ elif (m_total>=60 and m_total<=69):
     print("• YOU GOT 'C' GRADE ")
 elif (m_total>=50 and m_total<=59):
     print("• YOU GOT 'D' GRADE ")
+elif (m_total>=100 and m_total<=10000):
+    print('• PLEASE ENTER YOUR CORRECT MARKS')
 else:
     print('• YOUR PERFOMANCE IS WORSE')
